@@ -41,7 +41,7 @@ export default function HomeProduct() {
         {/* Section Header */}
         <div className="mb-10 text-center">
           <h2 className="text-3xl md:text-4xl font-bold text-gray-100">
-            Featured Products
+            Featured
           </h2>
           <p className="text-gray-500 mt-3 text-sm md:text-base">
             Discover our latest in-stock products
